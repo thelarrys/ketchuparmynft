@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xAd366c6730F6E81cD53406bd83A0cbB75CC6eB4a",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xad366c6730f6e81cd53406bd83a0cbb75cc6eb4a",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "RinkebyETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Ketchup Army NFT",
+  "SYMBOL": "KANFT",
+  "MAX_SUPPLY": 50,
+  "WEI_COST": 300000000000000,
+  "DISPLAY_COST": 0.0003,
+  "GAS_LIMIT": 300000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/ketchuparmynft",
+  "SHOW_BACKGROUND": true
+}
