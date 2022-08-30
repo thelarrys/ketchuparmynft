@@ -1,13 +1,13 @@
 {
-  "CONTRACT_ADDRESS": "0xb315392b8ee4006b4d8111f4e7452150382a325a",
-  "SCAN_LINK": "https://explorer.dogechain.dog/address/0xb315392b8ee4006b4d8111f4e7452150382a325a/transactions",
+  "CONTRACT_ADDRESS": "0x3df7707e226593a776020171bd7c2e8d870c0817",
+  "SCAN_LINK": "https://explorer.dogechain.dog/address/0x3df7707e226593a776020171bd7c2e8d870c0817/transactions",
   "NETWORK": {
     "NAME": "Dogechain",
     "SYMBOL": "wDOGE",
     "ID": 2000
   },
-  "NFT_NAME": "Doge Test",
-  "SYMBOL": "DCW",
+  "NFT_NAME": "Doge WorldCup NFT",
+  "SYMBOL": "DWC",
   "MAX_SUPPLY": 10000,
   "WEI_COST": 50000000000000000000,
   "DISPLAY_COST": 50,
