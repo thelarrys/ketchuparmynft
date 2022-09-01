@@ -145,7 +145,7 @@ function App() {
       .then((receipt) => {
         console.log(receipt);
         setFeedback(
-          `WOW, the ${CONFIG.NFT_NAME} is yours! A Marketplace is gonna be available soon.`
+          `WOW, the ${CONFIG.NFT_NAME} is yours! Available on Oasis soon.`
         );
         setClaimingNft(false);
         dispatch(fetchData(blockchain.account));
