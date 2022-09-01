@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x3df7707e226593a776020171bd7c2e8d870c0817",
-  "SCAN_LINK": "https://explorer.dogechain.dog/address/0x3df7707e226593a776020171bd7c2e8d870c0817/transactions",
+  "CONTRACT_ADDRESS": "0x0b3061c590bca18c14cceb2407d5b9f58d426014",
+  "SCAN_LINK": "https://explorer.dogechain.dog/address/0x0b3061c590bca18c14cceb2407d5b9f58d426014/transactions",
   "NETWORK": {
     "NAME": "Dogechain",
     "SYMBOL": "wDOGE",
     "ID": 2000
   },
   "NFT_NAME": "Doge WorldCup NFT",
-  "SYMBOL": "DWC",
+  "SYMBOL": "DCW",
   "MAX_SUPPLY": 10000,
-  "WEI_COST": 50000000000000000000,
-  "DISPLAY_COST": 50,
+  "WEI_COST": 40000000000000000000,
+  "DISPLAY_COST": 40,
   "GAS_LIMIT": 300000,
-  "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/ketchuparmynft",
+  "MARKETPLACE": "Oasis",
+  "MARKETPLACE_LINK": "https://oasis-nft.dog/",
   "SHOW_BACKGROUND": true
 }
