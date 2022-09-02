@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0x0B3061C590BCA18C14CcEb2407D5b9F58d426014",
-  "SCAN_LINK": "https://explorer.dogechain.dog/address/0x0B3061C590BCA18C14CcEb2407D5b9F58d426014/transactions",
+  "CONTRACT_ADDRESS": "0xa925a013769fa7404f8ad8facc2e262e5ba5dc58",
+  "SCAN_LINK": "https://explorer.dogechain.dog/address/0xa925a013769fa7404f8ad8facc2e262e5ba5dc58/transactions",
   "NETWORK": {
     "NAME": "Dogechain",
     "SYMBOL": "wDOGE",
@@ -8,7 +8,7 @@
   },
   "NFT_NAME": "Doge WorldCup NFT",
   "SYMBOL": "DWC",
-  "MAX_SUPPLY": 10000,
+  "MAX_SUPPLY": 3333,
   "WEI_COST": 25000000000000000000,
   "DISPLAY_COST": 25,
   "GAS_LIMIT": 300000,
